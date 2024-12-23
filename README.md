@@ -22,13 +22,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalyadav1&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalyadav1&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalyadav1&layout=compact&theme=radical)
-
-## GitHub Trophies
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sonalyadav1&theme=onedark)
 
-## GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sonalyadav1&theme=react-dark)
 
 ## Connect with Me
 
