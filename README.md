@@ -1,31 +1,36 @@
-👋 **Hi there! I'm Sonal Yadav
+# Hi there, I'm Sonal Yadav! 👋
 
-🔍 **Exploring the World Through Code | Problem Solver | Lifelong Learner**
+![Profile Views](https://komarev.com/ghpvc/?username=sonalyadav1&color=blue)
 
-I'm a passionate developer who loves turning ideas into reality with code. Whether it's building intuitive user interfaces, experimenting with algorithms, or diving into the backend, I'm always ready to tackle challenges and grow along the way.
+Welcome to my GitHub profile! I'm a passionate developer with a love for technology and innovation. Here's a bit about me and what I do:
 
-💡 **What I’m Up To:
-- Crafting sleek frontends and dynamic backends with JavaScript and more.
-- Building tools that make life easier and projects that spark curiosity.
-- Sharing my journey, learnings, and tips in open-source.
+## About Me
 
-🚀 **Skills & Tools:**
-- **Languages:** JavaScript, HTML, CSS, and a sprinkle of SQL
-- **Frameworks:** React, Node.js
-- **Tools:** Git, VS Code
+- 🌱 I’m currently learning [UI/UX , Debugginf kills].
+- 👯 I’m looking to collaborate on [Kotlin or java projects].
+- 💬 Ask me about [Javascript,C++,Java,Version control,Agile development,SQL].
+- ⚡ Fun fact: [insert a fun fact about yourself].
 
-  
-💬 **Let's Connect:**
-Have an idea or just want to chat? Feel free to reach out. I love collaborating with other developers, learning new things, and contributing to open-source projects!
+## Skills
 
-👨‍💻 **Check Out My Work:**  
-Discover my repositories below or [connect with me](https://www.linkedin.com/in/sonal-yadav-193471238/) on LinkedIn to chat!
+- **Languages:** [Javascript,C++,Java,TypeScript,HTML,Python]
+- **Frameworks:** [Kotlin,React Native,Flutter,Angular,Express.js,jQuery,Bootstrap]
+- **Tools:** [Github,Android Studio,IntelliJ IDEA,VS code,Postman]
+- **Databases:** [MongoDB,MySQL]
 
----
+## GitHub Stats
 
-Let me know if you'd like any customization or additional info!
+![Sonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonalyadav1&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalyadav1&theme=radical)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sonalyadav1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!---
-sonalyadav1/sonalyadav1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/sonal-yadav-193471238)
+- [Twitter](https://x.com/SonalYa944317)
+- [Email](sonal.y6390@gmail.com)
+
+
+Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
+
+![Footer](https://github.com/sonalyadav1/sonalyadav1/blob/main/footer.png)
