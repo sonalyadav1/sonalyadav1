@@ -33,4 +33,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
 
-![Footer](https://github.com/sonalyadav1/sonalyadav1/blob/main/footer.png)
