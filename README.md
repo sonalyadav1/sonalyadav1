@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## GitHub Stats
 
-![Sonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonalyadav1&show_icons=true&theme=radical)
+![Sonal's GitHub stats](![Metrics](https://metrics.lecoq.io/sonalyadav1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto))
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalyadav1&theme=radical)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sonalyadav1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
