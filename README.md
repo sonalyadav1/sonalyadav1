@@ -6,10 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## About Me
 
-- 🌱 I’m currently learning [UI/UX , Debugginf kills].
-- 👯 I’m looking to collaborate on [Kotlin or java projects].
+- 🌱 I’m currently learning [UI/UX , Debugging skills].
+- 👯 I’m looking to collaborate on [Kotlin or Java projects].
 - 💬 Ask me about [Javascript,C++,Java,Version control,Agile development,SQL].
-- ⚡ Fun fact: [insert a fun fact about yourself].
 
 ## Skills
 
