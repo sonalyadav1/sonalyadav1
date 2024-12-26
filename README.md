@@ -1,6 +1,5 @@
 # Hi there, I'm Sonal Yadav! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=sonalyadav1&color=blue)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology and innovation. Here's a bit about me and what I do:
 
