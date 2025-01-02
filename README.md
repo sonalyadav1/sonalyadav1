@@ -3,6 +3,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology and innovation. Here's a bit about me and what I do:
 
+
 ## About Me
 
 - 🌱 I’m currently learning [UI/UX , Debugging skills].
@@ -21,7 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalyadav1&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalyadav1&theme=dark)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sonalyadav1&theme=onedark)
-
 
 ## Connect with Me
 
