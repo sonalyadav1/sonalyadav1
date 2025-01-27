@@ -18,11 +18,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - **Databases:** [MongoDB,MySQL]
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalyadav1&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalyadav1&theme=dark)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sonalyadav1&theme=onedark)
-
 ## Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/sonal-yadav-193471238)
