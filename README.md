@@ -8,14 +8,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 - 🌱 I’m currently learning [UI/UX , Debugging skills].
 - 👯 I’m looking to collaborate on [Kotlin or Java projects].
-- 💬 Ask me about [Javascript,C++,Java,Version control,Agile development,SQL].
 
 ## Skills
 
-- **Languages:** [Javascript,C++,Java,TypeScript,HTML,Python]
-- **Frameworks:** [Kotlin,React Native,Flutter,Angular,Express.js,jQuery,Bootstrap]
-- **Tools:** [Github,Android Studio,IntelliJ IDEA,VS code,Postman]
-- **Databases:** [MongoDB,MySQL]
+- **Languages:** [Kotlin,Javascript,C++,Java,TypeScript]
+- **Frameworks:** [React Native,Angular,Express.js,jQuery,Bootstrap]
+- **Tools:** [Github,Git,Android Studio,IntelliJ IDEA,VS code,Postman]
+- **Databases:** [SQLite,MongoDB,MySQL]
 
 
 ## Connect with Me
