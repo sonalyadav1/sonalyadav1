@@ -25,5 +25,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - [Email](sonal.y6390@gmail.com)
 
 
-Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect .
+Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
  
