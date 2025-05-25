@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## Skills
 
-- **Languages:** [Kotlin,Javascript,C++,Java,TypeScript]
-- **Frameworks:** [React Native,Angular,Express.js,jQuery,Bootstrap]
-- **Tools:** [Github,Git,Android Studio,IntelliJ IDEA,VS code,Postman]
-- **Databases:** [SQLite,MongoDB,MySQL]
+- **Languages:** [Kotlin,Javascript,C++,Java,Python]
+- **Frameworks:** [Retrofit,React Native,MockitoKotlin,Osmdroid]
+- **Tools:** [Github,Git,Android Studio,VS code,Xcode]
+- **Databases:** [RoomDatabase,SQLite]
 
 
 ## Connect with Me
