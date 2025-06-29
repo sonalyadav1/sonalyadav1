@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00FF00&width=435&lines=Welcome+to+my+terminal...;Coding+like+a+1337+hacker;>_Stay+curious!" alt="Typing SVG" />
+  <img src="https://github.com/sonalyadav1/sonalyadav1/raw/main/banner.png" alt="Welcome Banner" />
 </p>
 
 ---
