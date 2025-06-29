@@ -6,11 +6,8 @@
   <code>$ whoami<br/>sonalyadav1</code>
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Hacker GIF" width="400" />
-</p>
-<h2 align="center">Welcome to my terminal...</h2>
-<h3 align="center">Coding like a 1337 hacker</h3>
+<h2 align="center">👋 Welcome to my terminal...</h2>
+<h3 align="center">💻 Coding like a <span style="color:#00FF00;">1337</span> hacker</h3>
 <p align="center"><b>_Stay curious!_</b></p>
 
 ---
