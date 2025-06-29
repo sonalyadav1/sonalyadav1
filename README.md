@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="![Gemini_Generated_Image_lr1bqrlr1bqrlr1b](https://github.com/user-attachments/assets/0a1ea61e-ffbd-4f1f-9423-f9d774d2b51d)
-" width="120" alt="Profile picture"/>
-</p>
 
 <h1 align="center"><code>sonalyadav1</code></h1>
 <p align="center">👩‍💻 Developer & Tech Enthusiast</p>
