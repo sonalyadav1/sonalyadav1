@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/879615838?v=4" width="120" />
+  <img src="https://avatars.githubusercontent.com/u/879615838?v=4" width="120" alt="Profile picture"/>
 </p>
 
-<h1 align="center">
-  <code>$ whoami<br/>sonalyadav1</code>
-</h1>
-
-<h2 align="center">👋 Welcome to my terminal...</h2>
-<h3 align="center">💻 Coding like a <span style="color:#00FF00;">1337</span> hacker</h3>
-<p align="center"><b>_Stay curious!_</b></p>
+<h1 align="center"><code>sonalyadav1</code></h1>
+<p align="center">👩‍💻 Developer & Tech Enthusiast</p>
+<p align="center"><b>_Exploring code, creating impact._</b></p>
 
 ---
 
