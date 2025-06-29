@@ -1,5 +1,5 @@
 
-<h1 align="center"><code>sonalyadav1</code></h1>
+<h1 align="center"><code>sonalyadav</code></h1>
 <p align="center">👩‍💻 Developer & Tech Enthusiast</p>
 <p align="center"><b>_Exploring code, creating impact._</b></p>
 
@@ -36,7 +36,7 @@ Databases:      RoomDatabase, SQLite
   <a href="https://www.linkedin.com/in/sonal-yadav-193471238/"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/SonalYa944317"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
----
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300" alt="hacker gif" /><br/>
