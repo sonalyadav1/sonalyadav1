@@ -36,14 +36,13 @@ Databases:      RoomDatabase, SQLite
 
 ---
 
-## <span style="color:#00ff00;">Connect</span>
+## <span style="color:#0077b5;">Connect</span>
 
 <p align="center">
-  <a href="mailto:sonal.y6390@gmail.com"><img src="https://img.shields.io/badge/email-00ff00?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/sonal-yadav-193471238/"><img src="https://img.shields.io/badge/linkedin-00ff00?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="https://x.com/SonalYa944317"><img src="https://img.shields.io/badge/twitter-00ff00?style=for-the-badge&logo=twitter&logoColor=black" /></a>
+  <a href="mailto:sonal.y6390@gmail.com"><img src="https://img.shields.io/badge/email-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sonal-yadav-193471238/"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/SonalYa944317"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-
 ---
 
 <p align="center">
