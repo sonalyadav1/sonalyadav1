@@ -1,6 +1,6 @@
 
 <h1 align="center"><code>sonalyadav</code></h1>
-<p align="center">👩‍💻 Developer & Tech Enthusiast</p>
+<p align="center">Developer & Tech Enthusiast</p>
 <p align="center"><b>_Exploring code, creating impact._</b></p>
 
 ---
@@ -8,11 +8,10 @@
 ## <span style="color:#00ff00;">About Me</span>
 
 ```shell
-# 👩‍💻 Developer | 🚀 Tech Enthusiast | 🕶️ Terminal Wizard
 cat << EOF
-- 🔭 Currently learning UI/UX and debugging skills
-- 🤝 Open to collaborating on Kotlin or Java projects
-- 💡 Passionate about impactful solutions and new tech
+-  Currently learning UI/UX and debugging skills
+-  Open to collaborating on Kotlin or Java projects
+-  Passionate about impactful solutions and new tech
 EOF
 ```
 
