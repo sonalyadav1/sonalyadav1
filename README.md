@@ -20,10 +20,10 @@ EOF
 ## <span style="color:#00ff00;">Tech Stack</span>
 
 ```shell
-Skills
 ❖ Languages: Kotlin, C++, JavaScript, SQL
 ❖ Android: Android SDK, Jetpack Components, RecyclerView, XML, Firebase, Room Database
-❖ Architecture and Concepts: MVVM, REST APIs, Asynchronous Programming, State Management ❖ Backend & AI: Node.js, Express.js, LLM Integration, Prompt Engineering
+❖ Architecture and Concepts: MVVM, REST APIs, Asynchronous Programming, State Management 
+❖ Backend & AI: Node.js, Express.js, LLM Integration, Prompt Engineering
 ❖ Databases: Firebase Firestore, MongoDB, MySQL
 ❖ Tools: Git, GitHub, JUnit
 ```
